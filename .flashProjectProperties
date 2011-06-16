@@ -1,0 +1,34 @@
+<projectDescription>
+  <id>1263439812244</id>
+  <name>Circles</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/brady/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/brady/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Users/brady/Source/Circles Editor/editor.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/brady/Source/Circles Editor/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="screen1.xml">file:///Macintosh HD/Users/brady/Source/Circles Editor/screen1.xml</uri>
+    <uri label="editor.fla">file:///Macintosh HD/Users/brady/Source/Circles Editor/editor.fla</uri>
+    <uri label="Parser.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/tools/Parser.as</uri>
+    <uri label="XmlLoader.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/tools/XmlLoader.as</uri>
+    <uri label="Screen.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/visual/Screen.as</uri>
+    <uri label="Test.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/Test.as</uri>
+    <uri label="TileGame.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/TileGame.as</uri>
+    <uri label="Tile.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/visual/Tile.as</uri>
+    <uri label="editor.swf">file:///Macintosh HD/Users/brady/Source/Circles Editor/editor.swf</uri>
+    <uri label="levellist.xml">file:///Macintosh HD/Users/brady/Source/Circles Editor/levellist.xml</uri>
+    <uri label="CropUtility.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/tools/CropUtility.as</uri>
+    <uri label="ImageLoader.as">file:///Macintosh HD/Users/brady/Source/Circles Editor/tools/ImageLoader.as</uri>
+    <uri label="TileGame-debug.swf">file:///Macintosh HD/Users/brady/Source/Circles Editor/bin/TileGame-debug.swf</uri>
+    <uri label="TileGame-debug.html">file:///Macintosh HD/Users/brady/Source/Circles Editor/bin/TileGame-debug.html</uri>
+    <uri label="history.swf">file:///Macintosh HD/Users/brady/Source/Circles Editor/bin/history.swf</uri>
+    <uri label="playerProductInstall.swf">file:///Macintosh HD/Users/brady/Source/Circles Editor/bin/playerProductInstall.swf</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
